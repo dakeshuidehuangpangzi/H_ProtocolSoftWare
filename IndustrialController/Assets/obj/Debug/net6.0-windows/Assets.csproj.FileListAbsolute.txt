@@ -1,0 +1,15 @@
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\bin\Debug\net6.0-windows\Assets.deps.json
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\bin\Debug\net6.0-windows\Assets.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\bin\Debug\net6.0-windows\Assets.pdb
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.csproj.AssemblyReference.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Styles\FontsDictionary.baml
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets_MarkupCompile.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.g.resources
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.AssemblyInfoInputs.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.AssemblyInfo.cs
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.csproj.CoreCompileInputs.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\refint\Assets.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\Assets.pdb
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\Assets\obj\Debug\net6.0-windows\ref\Assets.dll

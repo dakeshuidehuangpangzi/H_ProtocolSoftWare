@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Assets/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Assets.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assets.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Assets/1.0.0": {
+      "type": "project",
+      "path": "../Assets/Assets.csproj",
+      "msbuildProject": "../Assets/Assets.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Assets >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\黄胖子\\.nuget\\packages\\": {},
@@ -40,7 +62,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\Assets\\Assets.csproj": {
+              "projectPath": "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\Assets\\Assets.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

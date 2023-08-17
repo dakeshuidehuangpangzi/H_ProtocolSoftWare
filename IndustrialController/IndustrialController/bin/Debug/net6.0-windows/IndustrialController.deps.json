@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "IndustrialController/1.0.0": {
+        "dependencies": {
+          "Assets": "1.0.0"
+        },
         "runtime": {
           "IndustrialController.dll": {}
+        }
+      },
+      "Assets/1.0.0": {
+        "runtime": {
+          "Assets.dll": {}
         }
       }
     }
   },
   "libraries": {
     "IndustrialController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assets/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -19,3 +19,6 @@ F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\ob
 F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\obj\Debug\net6.0-windows\IndustrialController.pdb
 F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\obj\Debug\net6.0-windows\IndustrialController.genruntimeconfig.cache
 F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\obj\Debug\net6.0-windows\ref\IndustrialController.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\bin\Debug\net6.0-windows\Assets.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\bin\Debug\net6.0-windows\Assets.pdb
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\IndustrialController\obj\Debug\net6.0-windows\IndustrialController.csproj.CopyComplete
