@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialController", "IndustrialController\IndustrialController.csproj", "{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assets", "Assets\Assets.csproj", "{4693C6E6-85AD-43CC-A126-F13F96488600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4693C6E6-85AD-43CC-A126-F13F96488600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4693C6E6-85AD-43CC-A126-F13F96488600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4693C6E6-85AD-43CC-A126-F13F96488600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4693C6E6-85AD-43CC-A126-F13F96488600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC84B23-31EF-4EFF-B1B3-624D371E5EA9}
+	EndGlobalSection
+EndGlobal
