@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 
-11902304826
+22084014071
 
 
 1941709816142
-Styles\FontsDictionary.xaml;
+Styles\ButtonStyles.xaml;Styles\FontsDictionary.xaml;
 
 False
 
