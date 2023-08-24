@@ -1,0 +1,12 @@
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\bin\Debug\net6.0\PlcClient.deps.json
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\bin\Debug\net6.0\PlcClient.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\bin\Debug\net6.0\PlcClient.pdb
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.csproj.AssemblyReference.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.AssemblyInfoInputs.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.AssemblyInfo.cs
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.csproj.CoreCompileInputs.cache
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\refint\PlcClient.dll
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\PlcClient.pdb
+F:\GitWorkerCode\H_ProtocolSoftWare\IndustrialController\PlcClient\obj\Debug\net6.0\ref\PlcClient.dll

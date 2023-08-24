@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Assets\Assets.csproj" />
+    <ProjectReference Include="..\PlcClient\PlcClient.csproj" />
   </ItemGroup>
 
 </Project>

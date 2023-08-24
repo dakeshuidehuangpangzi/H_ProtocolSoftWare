@@ -14,6 +14,16 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "PlcClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PlcClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlcClient.dll": {}
+        }
       }
     }
   },
@@ -22,11 +32,17 @@
       "type": "project",
       "path": "../Assets/Assets.csproj",
       "msbuildProject": "../Assets/Assets.csproj"
+    },
+    "PlcClient/1.0.0": {
+      "type": "project",
+      "path": "../PlcClient/PlcClient.csproj",
+      "msbuildProject": "../PlcClient/PlcClient.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Assets >= 1.0.0"
+      "Assets >= 1.0.0",
+      "PlcClient >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -65,6 +81,9 @@
           "projectReferences": {
             "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\Assets\\Assets.csproj": {
               "projectPath": "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\Assets\\Assets.csproj"
+            },
+            "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\PlcClient\\PlcClient.csproj": {
+              "projectPath": "F:\\GitWorkerCode\\H_ProtocolSoftWare\\IndustrialController\\PlcClient\\PlcClient.csproj"
             }
           }
         }

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialController", "IndustrialController\IndustrialController.csproj", "{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndustrialController", "IndustrialController\IndustrialController.csproj", "{BBB9ADC8-422D-42F3-934F-5D9105C77FE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assets", "Assets\Assets.csproj", "{F7AD34F1-39AF-4823-9EA5-0009D51879AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assets", "Assets\Assets.csproj", "{F7AD34F1-39AF-4823-9EA5-0009D51879AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlcClient", "PlcClient\PlcClient.csproj", "{EE7BC265-075F-42A2-BD8D-5A3564D7C8CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F7AD34F1-39AF-4823-9EA5-0009D51879AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AD34F1-39AF-4823-9EA5-0009D51879AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AD34F1-39AF-4823-9EA5-0009D51879AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7BC265-075F-42A2-BD8D-5A3564D7C8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7BC265-075F-42A2-BD8D-5A3564D7C8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7BC265-075F-42A2-BD8D-5A3564D7C8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7BC265-075F-42A2-BD8D-5A3564D7C8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

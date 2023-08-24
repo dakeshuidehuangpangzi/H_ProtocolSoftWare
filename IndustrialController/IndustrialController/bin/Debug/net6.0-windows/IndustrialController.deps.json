@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "IndustrialController/1.0.0": {
         "dependencies": {
-          "Assets": "1.0.0"
+          "Assets": "1.0.0",
+          "PlcClient": "1.0.0"
         },
         "runtime": {
           "IndustrialController.dll": {}
@@ -17,6 +18,11 @@
       "Assets/1.0.0": {
         "runtime": {
           "Assets.dll": {}
+        }
+      },
+      "PlcClient/1.0.0": {
+        "runtime": {
+          "PlcClient.dll": {}
         }
       }
     }
@@ -28,6 +34,11 @@
       "sha512": ""
     },
     "Assets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlcClient/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
